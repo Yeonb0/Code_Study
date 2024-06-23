@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-  printf("È«±æµ¿\nÈ« ±æ µ¿\nÈ«  ±æ  µ¿");
+  printf("í™ê¸¸ë™\ní™ ê¸¸ ë™\ní™  ê¸¸  ë™");
   return 0;
 }
