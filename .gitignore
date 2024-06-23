@@ -8,3 +8,5 @@ node_modules/
 
 # EXE
 *.exe
+.vscode/launch.json
+.vscode/tasks.json
