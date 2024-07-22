@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "ArrayList.h"
+#include "PointArrayList.h"
 
 void ListInit(List * plist)  // 초기화
 {

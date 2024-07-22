@@ -1,11 +1,12 @@
-#ifndef __ARRAY_LIST_H__
-#define __ARRAY_LIST_H__
+#include "Point.h"
+#ifndef __POINT_ARRAY_LIST_H__
+#define __POINT_ARRAY_LIST_H__
 
 #define TRUE	1  // '참'을 표현하기 위한 매크로 정의
 #define FALSE	0  // '거짓'을 표현하기 위한 매크로 정의
 
 #define LIST_LEN	100
-typedef int LData;  // LData에 대한 typedef 선언
+typedef Point * LData;  // LData에 대한 typedef 선언
 
 typedef struct __ArrayList  // 배열기반 리스트를 정의한 구조체
 {
