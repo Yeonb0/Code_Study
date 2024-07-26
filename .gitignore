@@ -10,3 +10,6 @@ node_modules/
 *.exe
 .vscode/launch.json
 .vscode/tasks.json
+
+# ZIP
+*.zip
