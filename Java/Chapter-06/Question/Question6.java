@@ -14,5 +14,5 @@ public class Question6 {
       printBinaryNum(n/2);
       System.out.print(n%2);
     }
-  }
+  } 
 }
