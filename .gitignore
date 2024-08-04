@@ -16,3 +16,7 @@ node_modules/
 
 # class 
 *.class
+
+# c# file
+C#/
+*.meta
