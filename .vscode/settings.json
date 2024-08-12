@@ -1,5 +1,12 @@
 {
   "cSpell.words": [
-    "Recul"
-  ]
+    "CONTAC",
+    "mysc",
+    "namestr",
+    "Recul",
+    "Sinivel",
+    "strptr",
+    "zcap"
+  ],
+  "C_Cpp.errorSquiggles": "disabled"
 }
